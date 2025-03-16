@@ -2,5 +2,3 @@
 
 ![Filipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=FILIPE314&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FILIPE314&layout=compact&theme=dark)
-
-<img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
