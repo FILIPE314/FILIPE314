@@ -1,5 +1,11 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=00BFFF&random=false&width=1000&size=33&lines=Ol%C3%A1!+Eu+sou+o+Filipe+%F0%9F%91%8B)](https://git.io/typing-svg)
 
+### Sou um jovem que ama desde pequeno mexer com tecnologia! Meu objetivo é a carreira FULLSTACK.
+### Conhecimento nunca é demais!
+- ✅ FRONT-END
+- ❎ BACK-END
+- ❎ FULLSTACK
+
 ## 🌐 Tecnologias
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
