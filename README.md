@@ -2,4 +2,4 @@
 
 ![Filipe GitHub stats](https://github-readme-stats.vercel.app/api?username=FILIPE314&show_icons=true&theme=catppuccin_mocha)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FILIPE314&size_weight=0.5&count_weight=0.5&theme=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FILIPE314&layout=compact theme=dracula)
