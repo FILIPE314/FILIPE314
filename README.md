@@ -20,5 +20,9 @@
 ![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+## 📱 Contate-me
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luiz_fili3.14/)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/qr/UIZ4N4QF6IWCL1)
+
 ![Filipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=FILIPE314&show_icons=true&theme=blue-green&count_private&include_all_commits=true&line_height=28px&rank_icon=github&bg_color=30,8B0000,000000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FILIPE314&layout=donut&theme=blue-green&count_private&include_all_commits=true&bg_color=30,8B0000,000000)
